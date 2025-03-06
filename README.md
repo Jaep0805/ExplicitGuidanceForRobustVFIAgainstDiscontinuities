@@ -7,7 +7,7 @@ This is the official PyTorch implementation of our paper:
 > [JaeHyun Park], [Namik Cho]
 > IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025
 
-[[Paper(CVPR)](https://openaccess.thecvf.com/content/WACV2025/html/Park_Explicit_Guidance_for_Robust_Video_Frame_Interpolation_against_Discontinuous_Motions_WACV_2025_paper.html)]
+[[Paper(WACV)](https://openaccess.thecvf.com/content/WACV2025/html/Park_Explicit_Guidance_for_Robust_Video_Frame_Interpolation_against_Discontinuous_Motions_WACV_2025_paper.html)]
 ## Overview
 
 ## Abstract
